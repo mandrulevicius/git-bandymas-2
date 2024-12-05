@@ -1,0 +1,3 @@
+# Git bandymas
+
+bandom git
